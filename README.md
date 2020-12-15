@@ -9,3 +9,5 @@ I want to make a website that responsive to the size of screen the website is di
 Project website: https://dad1977ut.github.io/responsive-portfolio/
 Project repository: https://github.com/dad1977ut/responsive-portfolio
 ![index](index.jpg)
+![contact](contact.jpg)
+![portfolio](portfolio.jpg)
